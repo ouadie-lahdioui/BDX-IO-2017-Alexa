@@ -1,0 +1,22 @@
+{
+  "name": "bdx-io-2017-alexa",
+  "version": "1.0.0",
+  "description": "Alexa Skill for BDX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ouadie-lahdioui/BDX-IO-2017-Alexa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ouadie-lahdioui/BDX-IO-2017-Alexa/issues"
+  },
+  "homepage": "https://github.com/ouadie-lahdioui/BDX-IO-2017-Alexa#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.19"
+  }
+}
